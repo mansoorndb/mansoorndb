@@ -5,9 +5,10 @@
 I help train AI models by doing high-quality **data annotation** (images, bounding boxes, etc.).
 
 ### Current Skills
-- Data Annotation with **LabelImg** (YOLO format)
-- Practicing on **CVAT** and Label Studio
-- Object Detection projects
+- Data Annotation with CVAT
+- Practicing on **CVAT** , Labelbox and Label Studio
+- Video Annotation
+- Basic Python
 
 ### My Projects
 - [Fruit Detection Annotation](link-to-repo)
