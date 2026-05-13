@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mansoor Ahmed 👋
+
+**Aspiring AI Data Specialist** from Ubauro, Pakistan.
+
+I help train AI models by doing high-quality **data annotation** (images, bounding boxes, etc.).
+
+### Current Skills
+- Data Annotation with **LabelImg** (YOLO format)
+- Practicing on **CVAT** and Label Studio
+- Object Detection projects
+
+### My Projects
+- [Fruit Detection Annotation](link-to-repo)
+- [Face Mask Detection](link-to-repo)
+
+### Goals
+- Get my first data annotation job
+- Move into AI Evaluation & Model Training
+- Become AGI-resistant AI professional
+
+Currently learning **Python** and **Computer Vision**.
+
+Open to remote data annotation work!## Hi there 👋
 
 <!--
 **mansoorndb/mansoorndb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
